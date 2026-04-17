@@ -1,0 +1,5 @@
+{
+  "name": "Dip's Ai-Dev",
+  "description": "An extremely professional AI assistant for generation, device-like interactions, and voice-controlled productivity.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
